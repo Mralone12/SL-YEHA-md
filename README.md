@@ -32,7 +32,9 @@ I can't guarantee or can be held responsible if you get blocked or banned by usi
   මේක හදන්න හෙල්ප් කරපු අය - Thareesha Nthmidu (Grafic Design)🥵
                          - Deneth Nimsara (2 Plugins)🥵
   I'AM YEHAN PABASARA OWNER OF SL-YEHA-MD OFFICIAL BOT🥵🫶💫
-  src="https://imgur.io/vHqseoa?r"
+
+
+<a href="https://SL-YEHA.ml"><img align="center" src="https://imgur.io/vHqseoa?r"
 
 # Legal
 
