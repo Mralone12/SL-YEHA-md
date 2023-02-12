@@ -27,8 +27,8 @@ I can't guarantee or can be held responsible if you get blocked or banned by usi
 ලංකා ඉතිහාසයේ පළවෙනි ස්පෑම් ගහන්න පුළුවන් බෝට්...බොට් හොදනම් වට්සැප් මැසේජ් එකක් දාන්න (+93 71 2055 828) ❤️‍🔥💫 
   Koyeb Account නැති අය මට ඔය උඩ තීන නම්බර් එකට වට්සැප් මැසේජ් එකක් දාලා Koyeb Account එකක් ඉල්ලන්න මන් දෙනෝ අනිවා.. ❤️
   
-  මේක හදන්න හෙල්ප් කරපු අය - Thareesha Nthmidu (Grafic Design)
-                         - Deneth Nimsara (2 Plugins)
+  මේක හදන්න හෙල්ප් කරපු අය - Thareesha Nthmidu (Grafic Design)🥵
+                         - Deneth Nimsara (2 Plugins)🥵
 # Legal
 
 -   This code is in no way affiliated, authorized, maintained, sponsored or endorsed by WA (WhatsApp) or any of its affiliates or subsidiaries.
