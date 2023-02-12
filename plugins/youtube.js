@@ -1,7 +1,7 @@
 /* Copyright (C) 2022 Sourav KL11.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Raganork MD - Sourav KL11
+YEHA-MD - Sourav KL11
 */
 const {
   Module
@@ -31,7 +31,7 @@ const {
   ytdlServer,
   getVideo,
   addInfo
-} = require('raganork-bot');
+} = require('SL-YEHA-bot');
 var handler = HANDLERS !== 'false'?HANDLERS.split("")[0]:""
 let fm = MODE == 'public' ? false : true
 const getID = /(?:http(?:s|):\/\/|)(?:(?:www\.|)youtube(?:\-nocookie|)\.com\/(?:watch\?.*(?:|\&)v=|embed|shorts\/|v\/)|youtu\.be\/)([-_0-9A-Za-z]{11})/;
