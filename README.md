@@ -33,7 +33,7 @@ I can't guarantee or can be held responsible if you get blocked or banned by usi
                          - Deneth Nimsara (2 Plugins)🥵
   I'AM YEHAN PABASARA OWNER OF SL-YEHA-MD OFFICIAL BOT🥵🫶💫
 
-<a href="https://SL-YEHA. Mralone12.xyz/owner" target="blank"><img align="center" src="https://imgur.io/vHqseoa?r" alt="Deploy YEHA-MD bot" height="112" width="310" /></a>
+<a href="https://SL-YEHA. Mralone12.xyz/deploy" target="blank"><img align="center" src="https://imgur.io/vHqseoa?r.png" alt="Deploy YEHA-MD bot" height="112" width="310" /></a>
 
 
 # Legal
