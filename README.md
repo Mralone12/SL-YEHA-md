@@ -5,11 +5,13 @@
 <div align="center">
    
 <a href="https://SL-YEHA.ml"><img align="center" src="https://i.imgur.com/lLgFrTQ.png" alt="Scan QR" height="112" width="300" /></a>
+Whatsapp💥 එකෙන් Scan කරගන්න..... 💫😁
 <br>
 <div>
 <br>
   
 <a href="https://SL-YEHA. Mralone12.xyz/deploy" target="blank"><img align="center" src="https://i.imgur.com/gtK4XLX.png" alt="Deploy YEHA-MD bot" height="112" width="310" /></a>
+Diploy කරන්න Koyeb වලින්😁🤘 Koyeb Account නැති අය පල්ලෙහා මගේ නම්බර් එක ඇති මැසේජ් එකක් දාලා Koyeb Account එකක් ඉල්ල ගන්න. 🥰❤️‍🔥
   <div>
 <br>
 <div>
