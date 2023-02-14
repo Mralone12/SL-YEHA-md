@@ -10,7 +10,7 @@ Whatsapp💥 එකෙන් Scan කරගන්න..... 💫😁
 <div>
 <br>
   
-<a href="https://raganork.souravkl11xyz/deploy" target="blank"><img align="center" src="https://i.imgur.com/gtK4XLX.png" alt="Deploy YEHA-MD bot" height="112" width="310" /></a>
+<a href="https://raganork-md.souravkl11xyz/deploy" target="blank"><img align="center" src="https://i.imgur.com/gtK4XLX.png" alt="Deploy YEHA-MD bot" height="112" width="310" /></a>
 Diploy කරන්න Koyeb වලින්😁🤘 Koyeb Account නැති අය පල්ලෙහා මගේ නම්බර් එක ඇති මැසේජ් එකක් දාලා Koyeb Account එකක් ඉල්ල ගන්න. 🥰❤️‍🔥
   <div>
 <br>
